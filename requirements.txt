@@ -1,0 +1,12 @@
+numpy
+pandas
+xarray
+matplotlib
+cartopy
+netCDF4
+h5py
+scipy
+jupyterlab
+ipykernel
+earth2studio
+
