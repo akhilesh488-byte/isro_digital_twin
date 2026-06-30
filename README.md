@@ -255,24 +255,6 @@ Please ensure:
 - Tests are included for new features
 - Documentation is updated
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For support and questions:
-
-- **Issues**: [GitHub Issues](https://github.com/akhilesh488-byte/isro_digital_twin/issues)
-- **Email**: support@example.com
-- **Documentation**: [Full Documentation](docs/)
-
-## 🙏 Acknowledgments
-
-- Indian Space Research Organisation (ISRO)
-- Contributors and maintainers
-- Open-source community
-
 ---
 
 **Last Updated**: June 2026
